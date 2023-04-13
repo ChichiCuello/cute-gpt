@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cute-gpt/static/css/main.c9bfb91e.css",
+    "main.js": "/cute-gpt/static/js/main.19f44f51.js",
+    "index.html": "/cute-gpt/index.html",
+    "main.c9bfb91e.css.map": "/cute-gpt/static/css/main.c9bfb91e.css.map",
+    "main.19f44f51.js.map": "/cute-gpt/static/js/main.19f44f51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9bfb91e.css",
+    "static/js/main.19f44f51.js"
+  ]
+}
