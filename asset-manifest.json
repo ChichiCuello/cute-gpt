@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cute-gpt/static/css/main.78c41373.css",
-    "main.js": "/cute-gpt/static/js/main.19f44f51.js",
+    "main.js": "/cute-gpt/static/js/main.c2ec4c14.js",
     "index.html": "/cute-gpt/index.html",
     "main.78c41373.css.map": "/cute-gpt/static/css/main.78c41373.css.map",
-    "main.19f44f51.js.map": "/cute-gpt/static/js/main.19f44f51.js.map"
+    "main.c2ec4c14.js.map": "/cute-gpt/static/js/main.c2ec4c14.js.map"
   },
   "entrypoints": [
     "static/css/main.78c41373.css",
-    "static/js/main.19f44f51.js"
+    "static/js/main.c2ec4c14.js"
   ]
 }
