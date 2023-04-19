@@ -28,12 +28,8 @@ const App = () => {
             }
         }
         try {
-<<<<<<< HEAD
-            const response =await fetch ('http://chichicuello.github.io/cute-gpt/completions', options)
-=======
             //const response =await fetch ('http://localhost:8000/completions', options)
             const response = await fetch ('http://chichicuello.io/cute-gpt/completions' , options)
->>>>>>> 674385741aafc79e78fa3c4435a21bae8538f5f7
             const data = await response.json()
             setMessage(data.choices[0].message)
 
